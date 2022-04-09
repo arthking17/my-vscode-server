@@ -2,7 +2,7 @@
 My DevOps Container
 
 ## Description
-Docker container based on {vscode-server image](https://hub.docker.com/r/codercom/code-server). And I added all the tools I need as DevOps Engineer.
+Docker container based on [vscode-server image](https://hub.docker.com/r/codercom/code-server). And I added all the tools I need as DevOps Engineer.
 
 ## How to use this repo
 - [ ] download the repo on your local machine and replace my username "wi11i4m" with your username.
