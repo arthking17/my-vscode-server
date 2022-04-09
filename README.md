@@ -10,7 +10,7 @@ Docker container based on [vscode-server image](https://hub.docker.com/r/coderco
 ```
 docker-compose up
 ```
-- [ ] go to "localhost:2121" or "your_ip_addr:2121"
+- [ ] go to "localhost:2121" or "your_ip_addr:2121" (you can change the port in docker-compose.yml file if you want)
 - [ ] the website will ask you for the password, run the command below inside your container to get the password
 ```
 cat ~/.config/code-server/config.yaml
