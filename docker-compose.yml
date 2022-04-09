@@ -1,0 +1,13 @@
+---
+version: "3"
+
+services:
+  vscode:
+    build: .
+    ports:
+      - "2121:8080"
+    volumes:
+      - "/home/wi11i4m/.config:/home/wi11i4m/.config"
+      - "/home/wi11i4m/:/home/wi11i4m/project"
+    environment:
+      - DOCKER_USER=wi11i4m
