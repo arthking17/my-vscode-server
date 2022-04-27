@@ -1,5 +1,5 @@
-# My DevOps Container 🤖🔥✅
-My DevOps Container 🤖🔥✅
+# My DevOps Container 🤖🔥
+My DevOps Container 🤖🔥
 
 ## Description
 Docker container based on [vscode-server image](https://hub.docker.com/r/codercom/code-server). And I added all the tools I need as DevOps Engineer.
